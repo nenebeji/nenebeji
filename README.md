@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nenebeji
-- 👀 I’m interested in creating news things out of nothing.
+- 👀 I’m interested in creating news things out of nothing and constantly looking for ways to improve an existing idea/project.
 - 🌱 I’m currently learning to code through studying a full stack development course.
 - 💞️ I’m looking to collaborate on new and exciting projects.
 - 📫 How to reach me nenebeji@gmail.com
